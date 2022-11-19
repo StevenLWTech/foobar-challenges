@@ -1,6 +1,6 @@
 package Solutions.powerHungry;
 
-public class test {
+public class test { 
     public static void main(String[] args) {
 
         System.out.println(powerHungry.solution(new int[] { 0 })); // (0) single panel 0

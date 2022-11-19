@@ -1,6 +1,6 @@
 package Solutions.reId;
 
-public class reId {
+public class reId { 
     public static String solution(int i) {
         int count, checkNum = 2;
         String prime = "";
