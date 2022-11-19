@@ -1,4 +1,4 @@
-package Solutions.powerHungry;
+package Solutions.PowerHungry;
 
 public class test { 
     public static void main(String[] args) {

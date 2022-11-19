@@ -1,4 +1,4 @@
-package Solutions.powerHungry;
+package Solutions.PowerHungry;
 
 import java.math.BigInteger; 
 import java.util.ArrayList;

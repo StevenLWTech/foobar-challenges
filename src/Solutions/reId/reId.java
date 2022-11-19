@@ -1,4 +1,4 @@
-package Solutions.reId;
+package Solutions.ReId;
 
 public class reId { 
     public static String solution(int i) {
