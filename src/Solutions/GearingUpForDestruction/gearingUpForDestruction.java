@@ -20,10 +20,10 @@ public class gearingUpForDestruction {
 
         // if gear3 = 3
         // (gear3 = distance2 - distance1 + distance0 - gear0)
-        // (3)(gear0 / 2) = d2 - d1 + d0 - gear0
-        // (3)(gear0 / 2) + gear0 = d2 - d1 + d0
-        // (3)gear0 + gear0 = 2(d2 - d1 + d0)
-        // (3)2gear0 = (d2 - d1 + d0)
+        // (gear0 / 2) = d2 - d1 + d0 - gear0
+        // (gear0 / 2) + gear0 = d2 - d1 + d0
+        // gear0 + gear0 = 2(d2 - d1 + d0)
+        // gear0 = (d2 - d1 + d0)
         // gear0 = 2(d2 - d1 + d0) / 3
         // gear0 = 2/3 (d2-d1+d0)
 
