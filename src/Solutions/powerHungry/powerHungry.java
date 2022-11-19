@@ -1,6 +1,6 @@
 package Solutions.powerHungry;
 
-import java.math.BigInteger;
+import java.math.BigInteger; 
 import java.util.ArrayList;
 
 public class powerHungry {
