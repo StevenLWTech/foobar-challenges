@@ -1,6 +1,5 @@
 package Solutions.GearingUpForDestruction;
 
-import javax.print.event.PrintEvent;
 
 public class test {
     public static void main(String[] args) {
